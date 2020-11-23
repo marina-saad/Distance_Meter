@@ -1,0 +1,22 @@
+Dependencies for Project 'InputOutput', Target 'InputOutput': (DO NOT MODIFY !)
+F (.\startup.s)(0x57ED2424)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\InputOutput.c)(0x5ABFEBB2)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o .\inputoutput.o --omf_browse .\inputoutput.crf --depend .\inputoutput.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (tm4c123gh6pm.h)(0x5AB7AE69)
+I (nums on 3 displays.h)(0x5ABC358B)
+I (C:\Keil\TExaSware\tm4c123gh6pm.h)(0x51D44682)
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\display 1.h)(0x5ABE3743)()
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\display 2.h)(0x5ABE376B)()
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\display 3.h)(0x5ABE37F1)()
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\nums on 3 displays.h)(0x5ABC358B)()
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\display 1.c)(0x5ABF9B72)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o ".\display 1.o" --omf_browse ".\display 1.crf" --depend ".\display 1.d")
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\display 2.c)(0x5ABF9A6D)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o ".\display 2.o" --omf_browse ".\display 2.crf" --depend ".\display 2.d")
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\display 3.c)(0x5ABF9D2D)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o ".\display 3.o" --omf_browse ".\display 3.crf" --depend ".\display 3.d")
+F (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\nums on 3 displays.c)(0x5ABFD93F)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I.. -I..\..\.. --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_LM4F120H5QR-o ".\nums on 3 displays.o" --omf_browse ".\nums on 3 displays.crf" --depend ".\nums on 3 displays.d")
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
+I (C:\Users\Marina\Desktop\InputOutput_4C123\tm4c123gh6pm.h)(0x5AB7AE69)
+I (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\nums on 3 displays.h)(0x5ABC358B)
+I (C:\Keil_v5\TExaSware\ULTRASONIC SENSOR\port's pins initialization tm4c123.h)(0x5ABCE19A)
